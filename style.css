@@ -1,0 +1,37 @@
+ body {
+        font-family: 'Garamond';
+        background-color:#44D491;
+        margin: 20px;
+        }
+    img {
+        width: 300px; max-width: 100%; height: auto;
+        }
+    h1 {
+    border-style: dotted dashed solid double;text-align: center; color:#01310d; border-radius: 25px;
+    }
+    h2{
+    border-style: dotted dashed solid double;text-align: center; color:#01310d;
+    }
+    div {
+     background-color: rgb(176, 118, 241);
+     text-align: center;
+        }
+     h1 {
+            color: #01310d;
+        }
+    p {
+            color: #0e0202;
+            line-height: 1.5;
+            font-size: 18px;
+        }
+  table, th, td {
+  border-style: double; border:1px solid black}
+  nav{
+    background-color: rgb(176, 118, 241);
+    padding: 2px; 
+    border-style: solid; 
+  }
+#footer{
+    text-align: center; 
+    font-style: bold; 
+}
